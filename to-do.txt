@@ -1,0 +1,11 @@
+Filtrar por mais de um  campo na tabela ---------------------------------- OK
+
+Melhorar a paginação ou tirar -------------------------------------------- OK
+
+Criar os Dialogs  -------------------------------------------------------- OK
+
+Criar um Schema válido e realizar as operações no db através dele. ------- OK
+
+Diminuir o tempo da Session
+
+OBS: Busca por data só funciona se colocar no formato Date.
