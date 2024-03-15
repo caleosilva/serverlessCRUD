@@ -22,7 +22,6 @@ import { useForm } from "react-hook-form"
 
 import FormFieldBasic from '@/components/elements/FormFieldBasic/FormFieldBasic'
 import FormFieldCPF from "@/components/elements/FormFieldCPF/FormFieldCPF"
-import ComboBoxComponent from "@/components/elements/ComboBoxComponent/ComboBoxComponent"
 import AlertDestructive from "@/components/elements/AlertDestructive/AlertDestructive"
 import AlertAttention from "@/components/elements/AlertAttention/AlertDestructive";
 import { useToast } from "@/components/ui/use-toast"
